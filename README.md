@@ -7,7 +7,7 @@ Pico RTC HAT is a Real-Time clock expansion module with the powerful IC DS3231, 
 ### Board Details :
 
 * DS3231 SDA - PICO GP6
-* DS3221 SCL - Pico GP7
+* DS3221 SCL - PICO GP7
 
 
 ### Requirements
