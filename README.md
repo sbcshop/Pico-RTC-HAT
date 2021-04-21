@@ -27,6 +27,6 @@ Pico RTC HAT is a Real-Time clock expansion module with the powerful IC DS3231, 
 <img src="https://github.com/sbcshop/Raspberry-Pi-Pico-RFID-Expansion/blob/main/images/thonny-interpreter.PNG" />
 
 * Click on green play button to run example of Pico RTC HAT.
-* To change date, time or week, change variables of brlow line
+* To change date, time or week, change variables of below line
 
 CurrentTime = b'\x00\x00\x01\x06\x16\x04\x21' #00:00:01 friday 16/04/2021 
