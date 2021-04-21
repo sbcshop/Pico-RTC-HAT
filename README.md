@@ -12,7 +12,7 @@ Pico RTC HAT is a Real-Time clock expansion module with the powerful IC DS3231, 
 
 ### Requirements
 
-* Raspberry Pi Pico RTC HAT: (Buy it from :   )
+* Raspberry Pi Pico RTC HAT: (Buy it from : https://shop.sb-components.co.uk/products/pico-rtc-hat  )
 * Raspberry Pi Pico (Buy it from : https://shop.sb-components.co.uk/collections/latest-collections/products/raspberry-pi-pico-board-with-header )
 * USB Cable
 * Jumper Cables (optional)
